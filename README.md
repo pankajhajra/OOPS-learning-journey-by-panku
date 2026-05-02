@@ -25,4 +25,4 @@ OOP helps developers build clean, efficient, and scalable applications by organi
 ⭐ Author
 
 Pankaj Hajra
-B.Tech CSE Student | Future Full Stact developer 
+B.Tech CSE Student |  Full Stact developer 
