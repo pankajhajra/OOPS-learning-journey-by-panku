@@ -16,7 +16,7 @@ class student{
 class first{
      public static void main(String[] s){
        student s1 = new student(101,"Panku");
-       student s2 = new student(102,"Raghav");
+       student s2  = new student(102,"Raghav");
        s1.display();
      }
 }
